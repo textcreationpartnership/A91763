@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theriaca Andromachi senioris diuinum inuentum The abouesaid antidote is composed in Venice vvith all diligence and careby Anthony Raffaeli apothecary at the signe of the Paradice at Riu'alta vpon the vvine banck in the presence and beforethe most illustrious magistrates of the old iustice, and the most excellent colledge of doctors and of the apothecaryes, and other deputys for the same, the faculties, and rare virtues of vvhich are as follo vveth for the good of all people.</title>
+            <author>Raffaeli, Francesco.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91763</idno>
+            <idno type="STC">Wing R131B</idno>
+            <idno type="STC">ESTC R222214</idno>
+            <idno type="EEBO-CITATION">99895838</idno>
+            <idno type="PROQUEST">99895838</idno>
+            <idno type="VID">153511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2368:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theriaca Andromachi senioris diuinum inuentum The abouesaid antidote is composed in Venice vvith all diligence and careby Anthony Raffaeli apothecary at the signe of the Paradice at Riu'alta vpon the vvine banck in the presence and beforethe most illustrious magistrates of the old iustice, and the most excellent colledge of doctors and of the apothecaryes, and other deputys for the same, the faculties, and rare virtues of vvhich are as follo vveth for the good of all people.</title>
+                  <author>Raffaeli, Francesco.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>M.DC.XCVII. Presso Domenico Milocho. Con licenza de' superiori,</publisher>
+                  <pubPlace>In Venetia :</pubPlace>
+                  <date>[1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First published in 1688, with "Francis" in place of "Anthony" in title.</note>
+                  <note>Italian and English in parallel columns.</note>
+                  <note>The spacing between and within words is irregular.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ita">ita</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicines, Specific --  Early works to 1800.</term>
+               <term>Antidotes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:153511:1" rendition="simple:additions"/>
+            <p>THERIACA ANDROMACHI SENIORIS Diuinum Inuentum.</p>
+            <figure>
+               <figDesc>lion symbolizing Mark</figDesc>
+               <q>PAX TIBI MARCE EVANGELIST<gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </q>
+            </figure>
+            <figure>
+               <figDesc>cloud scene of Saints, angels and Christ</figDesc>
+               <p>THERIACA FIN ALLA SPECIARIA DEL PARADISO IN RIAITO</p>
+               <p>SOLI DEO GLORIA ET HONOR</p>
+               <p>SOPRA LA RIVA DEL VIN IN VENETIA</p>
+            </figure>
+            <figure>
+               <figDesc>lion symbolizing Mark</figDesc>
+               <q>PAX TIBI MARCE EVANGELIST<gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </q>
+            </figure>
+            <p>The aboueſaid antidote is Compoſed in Venice vvith all diligence and care by Anthony Raffaeli Apothecary at the ſigne of the Paradice at Riu'alta vpon the vvine bancK in the preſence and before the moſt Illuſtrious Magiſtrates of the old Iuſtice, and the moſt excellent Colledge of Doctors and of the Apothecaryes, and other deputys for the ſame, the faculties, and rare virtues of vvhich are as follovveth for the good of all people.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="eng" type="version">
+            <p>THe Teacle amongſt all the other prerogatiues hath vertue to preſer<g ref="char:EOLhyphen"/>ue from the plague, and from all other Contagions aKeings Kee<g ref="char:EOLhyphen"/>ping the body chearfull and in health.</p>
+            <p>It is good againſt the paſſions of the heart, or heart AKeing, remouing thence Melancholy, Conſumeing the putrefied humors of the body, ex<g ref="char:EOLhyphen"/>pelling euery vnholſome ſuperfluity of the Same, Keeping it vvholſome, and ſtrengthenes it admirably.</p>
+            <p>It cures the very plague, and other peſtilential diſeaſes.</p>
+            <p>It is good againſt all biteingr of of all ſorts of venemous creatures. Eſpecialy of the ſcorpions and madd doggs, and other ſorts both of the land or vvater taKen at the mouth and applyed to the vvound on the outſide.</p>
+            <p>It preſerues from poiſons taKeing before or vvhen there is ſuſpition, and Eſ<g ref="char:EOLhyphen"/>pecially after the poiſon is diſcouered in vvhich caſe the ſicK perſon muſt Indeauor to vomitt offten taKeing the ſaid treacle invvardly.</p>
+            <p>It helps very much thoſe that from, an inuuard, and vnKnovvne diſeaſe conſume avay as if they vere poiſoned.</p>
+            <p>It is a ſingular remedy againſt al agues, preuenting, the trembleing Rigour, and colds chat continue long, taKeing this treaKle, three, or four times before the fites begin.</p>
+            <p>It cures the quartane ague giuen in the vniuerſal ſtate of the fitt, but not in the begnining the matter, and cauſe being raus.</p>
+            <p>It preſerue from peſtilent and malignant Agues, and cures them.</p>
+            <p>It expells the vvinde from the ſtomacK, ſtops ſpitting of blood, taKenby the perſons grieued invvardly.</p>
+            <p>It expells fleagme from the ſtomacK, it s' good againſt the paine in the entrals griping of the gutts or paine in the ſides, occaſioned from vlcers, the ſto<g ref="char:EOLhyphen"/>ne, it cures the dropſie, and the, <gap reason="illegible" resp="#KEYERS" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ffique, in the begining of the fitts.</p>
+            <p>It ſtrenghns the eye ſighnt, ad is e<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>lent good for all internal diſſeaſes of the head faling ſicKnes, appoplexy Palſy, ſtopps the flux, and Rhevvmes prouoKeing sleepp.</p>
+            <p>It is good againſt the paines in the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſt, covvghes, and Cattars.</p>
+            <p>It co<g ref="char:cmbAbbrStroke">̄</g>forts admirably the heart, preuents the burning, and quacKeing thereof.</p>
+            <p>It cures all indiſpoſitions of the ſtomach, as exſtreame hunger, or loathenes and ſtrengthens the Vitall pars.</p>
+            <p>It Kills all ſorts of vermin, or vvormes, expells them out of the body, and hinder their ingendring.</p>
+            <p>It cures the leproſie vſed often by the patient.</p>
+            <p>It prouoaKes, vvomanes flovvres, and the ſtopped flux of the emoroides, and vvhat is vvonderful it equally reſtraines the ouer much flux of the ſame, conforting nature, vveaKeneſſ by both indiſpoſitions.</p>
+            <p>It prouoKes the after birth, and it helpſ to bring forth dead children it hath many other, rare vertues, that for, breuity ſaKe doe not vvrite, it being, a moſt rare, and Reall medecine, and vvel Knovvne by all the vvorld, it a<g ref="char:EOLhyphen"/>grees to ages aboue ſeauen years and to all Complexſions, and may be<g ref="char:EOLhyphen"/>guien at, or in any ſcaſſon.</p>
+            <div type="part">
+               <head>THE DOSE.</head>
+               <p>TO the young, and thoſe of ſtronge Complexſions the vveight of turo, or 3. ſcruples à lone, or in vvine, or aqua mulſa, or other liquor.</p>
+               <p>The aged people one drame, and the ſame vveight to be giuen, for poiſons and the plague.</p>
+            </div>
+         </div>
+         <div xml:lang="ita" type="version">
+            <p>LA THERIACA adunque trà l'altre ſue prerogatiue hà virtù di pre<g ref="char:EOLhyphen"/>ſeruaregl'huomini dalla a Peſte, e da ogn'aſtro male Contagioſo con<g ref="char:EOLhyphen"/>ſeruandoli ſani, &amp; allegri.</p>
+            <p>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oua alle paſſioni dell'animo, rimouendo la Malinconia, conſoma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>do gl'humori putridi del corpo, diſcacciando<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gni inutile ſuperfluità, con mantenerlo ſano, fortifica mirabilmente.</p>
+            <p>Cura l'iſteffa Peſte, e gl'altri mali contagioſi, però é ottimo preſeruatiuo, e cu<g ref="char:EOLhyphen"/>rati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o di quella, e di ſimili.</p>
+            <p>Valle alle morſicature di tutti gl'animali velenoſi, &amp; in particolare degli Scorpioni, e del Can rabbioſo, e de gl'altri animali, tanto di Terra, che di Mare, pigliata per bocca, &amp; applicata di fuora ſopra dette morſicature.</p>
+            <p>Preſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rua da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Veleni, preſa auanti quando ſi hà ſoſpetto, e ſi cura q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>do foſ<g ref="char:EOLhyphen"/>ſero ſtati diuorati, nel qual caſo deue cercare l'infermo di vomitare, reite<g ref="char:EOLhyphen"/>rando più volte il pigliar per bocca della ſopradetta Triaca.</p>
+            <p>Gio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a ſommamente à quelli, che da cauſa interna, &amp; occulta<g ref="char:punc">▪</g>ſi vanno con<g ref="char:EOLhyphen"/>ſumando, come ſe foſſero auuelenati.</p>
+            <p>Eremedio ſingolare à tutte le febri leuandone il tremore, rigore, ò freddo, che durano longamente, pigliandone tre ò quattro volte auanti l'acceſſo.</p>
+            <p>Sana anco la Quartana data nello ſtato vniuerſale del male, e non nel prin<g ref="char:EOLhyphen"/>cipio, eſſendo la materia cruda.</p>
+            <p>Preſerua dalle febri, Peſtilenti, e maligne, e la cura.</p>
+            <p>Riſolue la ventoſità dello ſtomaco. Gioua alli dolori delle viſcere, e delle re<g ref="char:EOLhyphen"/>ni cagionati da Vlcere, ò dalla Pietra.</p>
+            <p>Guariſced <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dropiſia, e la Tiſica nel principio del male.</p>
+            <p>Toglie dal petto la Marcia, e ferma gliſputi del ſangue, tolta ſpeſſo per boc<g ref="char:EOLhyphen"/>ca da gl'Infermi.</p>
+            <p>Augumenta la viſta, &amp; conuiene à tutti li ma li interni del Capo, come al mal caducho, Apopleſia, Paraliſia fermando <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fluſſioni,, &amp; i Catarri, con eccita<g ref="char:EOLhyphen"/>reil ſonno.</p>
+            <p>Conferiſce eccellentemente alle paſſioni del petto, alle toſſe, &amp; à i catarri.</p>
+            <p>Conforta mirabilmente il cuore, togliendo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e la pal pitatione.</p>
+            <p>Sana tutte l'Indiſpoſitioni di ſtomaco Come la tropa fame, innapetenza, nau<g ref="char:EOLhyphen"/>ſea ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>done la collera, e la putrefazione, aiutando la concozione, con <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſcaldare, e fortificare le parti vitali.</p>
+            <p>Ammazza tutte le ſorte de vermi, cacciandoli fuora del corpo, e n'impediſce la generatione.</p>
+            <p>Cura la Lebra vſata ſpeſſo da pazienti.</p>
+            <p>Prouoca i Meſtrui alle Donne, &amp; il ſopreſſo fluſſo dell'Emoroide. E quello, ch'èdi Marauiglia, reſtringe egualmente i ſouerchi fluſſi Emoroidali, che Meſtrui, confortando la natura debelitata da ambedue indiſpoſitioni, che robuſta abbraccia il medicamento.</p>
+            <p>Prouoca le ſecondine, retenute, e manda fuori del Corpo delle Donne le Creature morte.</p>
+            <p>Hà molte altre virtù, che per breuità ſi tralaſciano, eſſendo medicamento rea<g ref="char:EOLhyphen"/>le, Canonico, e notiſſimo à tutto il Mondo.</p>
+            <p>Conferiſce à tutte l'età da ſette anni ſopra tutte le compleſſioni, e ſi dà ſecu<g ref="char:EOLhyphen"/>ramente in ogni tempo.</p>
+            <div type="part">
+               <head>LA DOSE SARA'.</head>
+               <p>ALli giouani, e quelli di virile età al peſo due ò tre ſcropoli ſola, ò con vino, ò con acqua mulſa, ò altro liquore.</p>
+               <p>Alli vecchi 1<g ref="char:punc">▪</g> dra<g ref="char:cmbAbbrStroke">̄</g>ma, &amp; il medeſimo peſo ſi darà ne Veleni, nella Peſte, e per preſeruatiuo vno ſcropolo, haue<g ref="char:cmbAbbrStroke">̄</g>do se<g ref="char:cmbAbbrStroke">̄</g>pre riguardo alla qualità della perſona.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>IN VENETIA, M. DC. XCVII. Preſſo Domenico Milocho. <hi>Con Licenza de' Superiori.</hi>
+            </p>
+            <pb facs="tcp:153511:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
